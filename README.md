@@ -20,7 +20,7 @@ This repository contains the code and analysis for the Amazon Books Data Analysi
 ## Contents
 
 ### Report
-The full report is available in the `Amazon_Books_Report.pdf` file, detailing the following sections:
+The full report is available in the [Amazon_Books_Report.pdf](Amazon_Books_Report.pdf) file, detailing the following sections:
 1. **Introduction**: Overview of Amazon Books and the objectives of our analysis.
 2. **Dataset Description**: Description of the datasets used (books.csv, ratings.csv, and users.csv) and their structure.
 3. **Data Cleaning**: Steps taken to clean the datasets, including handling missing values and filtering erroneous data.
@@ -34,7 +34,7 @@ The full report is available in the `Amazon_Books_Report.pdf` file, detailing th
 6. **References**: Sources and references used in the report.
 
 ### Code
-The code used for the analysis is provided in the Jupyter Notebook `Amazon_Books_Analysis.ipynb`. The notebook includes:
+The code used for the analysis is provided in the Jupyter Notebook [Amazon_Books_Analysis.ipynb](Amazon_Books_Analysis.ipynb). The notebook includes:
 - Data loading and cleaning
 - Exploratory data analysis and visualizations
 - Statistical tests and models
