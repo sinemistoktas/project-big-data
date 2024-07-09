@@ -39,5 +39,9 @@ The code used for the analysis is provided in the Jupyter Notebook [Amazon_Books
 - Exploratory data analysis and visualizations
 - Statistical tests and models
 
+### Midway Presentation
+The project presentation, reflecting the state of the project midway through, is available in the [Amazon_Books_Presentation.pdf](Amazon_Books_Presentation.pdf) file. This presentation provides a snapshot of our interim findings, methodology, and progress at that point in time.
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
